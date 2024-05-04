@@ -1,0 +1,8 @@
+{
+  "2020": {
+    "Spring": {"totalRevenue": 105160, "itemsSold": 5140, "orders": 1500, "deliveryTime": 5.1},
+    "Summer": {"totalRevenue": 415330, "itemsSold": 20250, "orders": 4500, "deliveryTime": 4.6},
+    "Autumn": {"totalRevenue": 350750, "itemsSold": 17550, "orders": 3900, "deliveryTime": 4.9},
+    "Winter": {"totalRevenue": 298410, "itemsSold": 14700, "orders": 3600, "deliveryTime": 5.8}
+  }
+}
