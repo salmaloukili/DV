@@ -1,20 +1,32 @@
-[{"Year":2019,"Season":"Autumn","total_revenue":119308158,"total_orders":14055,"total_products":237749,"average_delivery_time":6.9732479545},
-  {"Year":2019,"Season":"Spring","total_revenue":115392731,"total_orders":13983,"total_products":231202,"average_delivery_time":6.9564471144},
-  {"Year":2019,"Season":"Summer","total_revenue":117824038,"total_orders":14089,"total_products":235305,"average_delivery_time":7.0239193697},
-  {"Year":2019,"Season":"Winter","total_revenue":112559592,"total_orders":13700,"total_products":226984,"average_delivery_time":7.062919708},
-  {"Year":2020,"Season":"Autumn","total_revenue":123600221,"total_orders":14175,"total_products":247860,"average_delivery_time":7.0423985891},
-  {"Year":2020,"Season":"Spring","total_revenue":121199353,"total_orders":14030,"total_products":244598,"average_delivery_time":7.040769779},
-  {"Year":2020,"Season":"Summer","total_revenue":124530530,"total_orders":14171,"total_products":249722,"average_delivery_time":6.9998588667},
-  {"Year":2020,"Season":"Winter","total_revenue":117326970,"total_orders":13914,"total_products":236681,"average_delivery_time":6.9900100618},
-  {"Year":2021,"Season":"Autumn","total_revenue":122929378,"total_orders":14127,"total_products":247139,"average_delivery_time":16.3899624832},
-  {"Year":2021,"Season":"Spring","total_revenue":120325816,"total_orders":14067,"total_products":241721,"average_delivery_time":7.0048340087},
-  {"Year":2021,"Season":"Summer","total_revenue":117770673,"total_orders":13998,"total_products":238735,"average_delivery_time":56.5197885412},
-  {"Year":2021,"Season":"Winter","total_revenue":120156578,"total_orders":13888,"total_products":242433,"average_delivery_time":7.0055443548},
-  {"Year":2022,"Season":"Autumn","total_revenue":118329318,"total_orders":13851,"total_products":240414,"average_delivery_time":6.9980506823},
-  {"Year":2022,"Season":"Spring","total_revenue":120729491,"total_orders":13872,"total_products":243847,"average_delivery_time":6.9961793541},
-  {"Year":2022,"Season":"Summer","total_revenue":122862880,"total_orders":14030,"total_products":248168,"average_delivery_time":7.0243050606},
-  {"Year":2022,"Season":"Winter","total_revenue":124590503,"total_orders":14246,"total_products":251811,"average_delivery_time":6.9997192194},
-  {"Year":2023,"Season":"Autumn","total_revenue":117105131,"total_orders":13885,"total_products":236781,"average_delivery_time":7.058264314},
-  {"Year":2023,"Season":"Spring","total_revenue":122204034,"total_orders":14244,"total_products":247072,"average_delivery_time":7.0176214546},
-  {"Year":2023,"Season":"Summer","total_revenue":119492493,"total_orders":14004,"total_products":242116,"average_delivery_time":6.9978577549},
-  {"Year":2023,"Season":"Winter","total_revenue":117271400,"total_orders":13714,"total_products":237618,"average_delivery_time":7.0075105731}]
+{
+  "2019": {
+    "Autumn": {"total_revenue": 119308158, "total_orders": 14055, "total_products": 237749, "average_delivery_time": 6.97},
+    "Spring": {"total_revenue": 115392731, "total_orders": 13983, "total_products": 231202, "average_delivery_time": 6.96},
+    "Summer": {"total_revenue": 117824038, "total_orders": 14089, "total_products": 235305, "average_delivery_time": 7.02},
+    "Winter": {"total_revenue": 112559592, "total_orders": 13700, "total_products": 226984, "average_delivery_time": 7.06}
+  },
+  "2020": {
+    "Autumn": {"total_revenue": 123600221, "total_orders": 14175, "total_products": 247860, "average_delivery_time": 7.04},
+    "Spring": {"total_revenue": 121199353, "total_orders": 14030, "total_products": 244598, "average_delivery_time": 7.04},
+    "Summer": {"total_revenue": 124530530, "total_orders": 14171, "total_products": 249722, "average_delivery_time": 7.00},
+    "Winter": {"total_revenue": 117326970, "total_orders": 13914, "total_products": 236681, "average_delivery_time": 6.99}
+  },
+  "2021": {
+    "Autumn": {"total_revenue": 122929378, "total_orders": 14127, "total_products": 247139, "average_delivery_time": 16.39},
+    "Spring": {"total_revenue": 120325816, "total_orders": 14067, "total_products": 241721, "average_delivery_time": 7.00},
+    "Summer": {"total_revenue": 117770673, "total_orders": 13998, "total_products": 238735, "average_delivery_time": 56.52},
+    "Winter": {"total_revenue": 120156578, "total_orders": 13888, "total_products": 242433, "average_delivery_time": 7.01}
+  },
+  "2022": {
+    "Autumn": {"total_revenue": 118329318, "total_orders": 13851, "total_products": 240414, "average_delivery_time": 6.998},
+    "Spring": {"total_revenue": 120729491, "total_orders": 13872, "total_products": 243847, "average_delivery_time": 6.996},
+    "Summer": {"total_revenue": 122862880, "total_orders": 14030, "total_products": 248168, "average_delivery_time": 7.024},
+    "Winter": {"total_revenue": 124590503, "total_orders": 14246, "total_products": 251811, "average_delivery_time": 7.0}
+  },
+  "2023": {
+    "Autumn": {"total_revenue": 117105131, "total_orders": 13885, "total_products": 236781, "average_delivery_time": 7.058},
+    "Spring": {"total_revenue": 122204034, "total_orders": 14244, "total_products": 247072, "average_delivery_time": 7.018},
+    "Summer": {"total_revenue": 119492493, "total_orders": 14004, "total_products": 242116, "average_delivery_time": 6.998},
+    "Winter": {"total_revenue": 117271400, "total_orders": 13714, "total_products": 237618, "average_delivery_time": 7.008}
+  }
+}
